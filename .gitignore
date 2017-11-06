@@ -35,7 +35,6 @@ Serenity.Test/Scripts/serenity/Serenity.CoreLib.d.ts
 Serenity.Test/Scripts/serenity/Serenity.CoreLib.js
 Serenity.Test/Scripts/serenity/Serenity.Script.UI.js
 Serenity.Test/Scripts/serenity/Serenity.Script.UI.min.js
-Serenity.Test/Scripts/serenity/Serenity.CoreLib.js
 Serenity.Test/Scripts/serenity/Serenity.CoreLib.min.js
 .vs/restore.dg
 .vs/
@@ -46,8 +45,8 @@ node_modules/
 Serenity.Test/Scripts/serenity/Serenity.Test.js.map
 Serenity.TypeScript.CodeGeneration/Serenity.CodeGeneration.js.map
 Serenity.TypeScript.CodeGeneration/Serenity.CodeGeneration.min.js
-.vs/
 npm-debug.log
 /.axoCover/
 Serenity.TypeScript.CoreLib/Serenity.CoreLib.js.map
 Serenity.TypeScript.CoreLib/Serenity.CoreLib.min.js
+/packages/
