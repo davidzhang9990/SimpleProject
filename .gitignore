@@ -16,6 +16,7 @@ TestResults/
 CodeGenerator/app.config
 Build/
 /Bin/
+**/bin/**
 Samples/Serene/packages/
 Samples/Serene/Serene/Serene.Web/bin
 Samples/Serene/Serene/Serene.Web/App_Data/
