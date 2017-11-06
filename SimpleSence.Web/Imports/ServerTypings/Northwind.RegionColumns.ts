@@ -1,0 +1,3 @@
+﻿namespace SimpleSence.Northwind {
+}
+
